@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\diec6\\Desktop\\inmoboliaria\\inmobiliariapi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{131F1ED3-4B62-4EA7-A9FD-D5ABBED4187B}|inmobiliariapi\\inmobiliariapi.csproj|c:\\users\\diec6\\desktop\\inmoboliaria\\inmobiliariapi\\inmobiliariapi\\models\\propietario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131F1ED3-4B62-4EA7-A9FD-D5ABBED4187B}|inmobiliariapi\\inmobiliariapi.csproj|solutionrelative:inmobiliariapi\\models\\propietario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131F1ED3-4B62-4EA7-A9FD-D5ABBED4187B}|inmobiliariapi\\inmobiliariapi.csproj|c:\\users\\diec6\\desktop\\inmoboliaria\\inmobiliariapi\\inmobiliariapi\\models\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131F1ED3-4B62-4EA7-A9FD-D5ABBED4187B}|inmobiliariapi\\inmobiliariapi.csproj|solutionrelative:inmobiliariapi\\models\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{131F1ED3-4B62-4EA7-A9FD-D5ABBED4187B}|inmobiliariapi\\inmobiliariapi.csproj|c:\\users\\diec6\\desktop\\inmoboliaria\\inmobiliariapi\\inmobiliariapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{131F1ED3-4B62-4EA7-A9FD-D5ABBED4187B}|inmobiliariapi\\inmobiliariapi.csproj|solutionrelative:inmobiliariapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +19,12 @@
       "RelativeMoniker": "D:0:0:{131F1ED3-4B62-4EA7-A9FD-D5ABBED4187B}|inmobiliariapi\\inmobiliariapi.csproj|solutionrelative:inmobiliariapi\\controllers\\inquilinocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{131F1ED3-4B62-4EA7-A9FD-D5ABBED4187B}|inmobiliariapi\\inmobiliariapi.csproj|c:\\users\\diec6\\desktop\\inmoboliaria\\inmobiliariapi\\inmobiliariapi\\models\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{131F1ED3-4B62-4EA7-A9FD-D5ABBED4187B}|inmobiliariapi\\inmobiliariapi.csproj|solutionrelative:inmobiliariapi\\models\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{131F1ED3-4B62-4EA7-A9FD-D5ABBED4187B}|inmobiliariapi\\inmobiliariapi.csproj|c:\\users\\diec6\\desktop\\inmoboliaria\\inmobiliariapi\\inmobiliariapi\\models\\inquilino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{131F1ED3-4B62-4EA7-A9FD-D5ABBED4187B}|inmobiliariapi\\inmobiliariapi.csproj|solutionrelative:inmobiliariapi\\models\\inquilino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{131F1ED3-4B62-4EA7-A9FD-D5ABBED4187B}|inmobiliariapi\\inmobiliariapi.csproj|c:\\users\\diec6\\desktop\\inmoboliaria\\inmobiliariapi\\inmobiliariapi\\models\\propiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{131F1ED3-4B62-4EA7-A9FD-D5ABBED4187B}|inmobiliariapi\\inmobiliariapi.csproj|solutionrelative:inmobiliariapi\\models\\propiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{131F1ED3-4B62-4EA7-A9FD-D5ABBED4187B}|inmobiliariapi\\inmobiliariapi.csproj|c:\\users\\diec6\\desktop\\inmoboliaria\\inmobiliariapi\\inmobiliariapi\\models\\propietario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{131F1ED3-4B62-4EA7-A9FD-D5ABBED4187B}|inmobiliariapi\\inmobiliariapi.csproj|solutionrelative:inmobiliariapi\\models\\propietario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{131F1ED3-4B62-4EA7-A9FD-D5ABBED4187B}|inmobiliariapi\\inmobiliariapi.csproj|c:\\users\\diec6\\desktop\\inmoboliaria\\inmobiliariapi\\inmobiliariapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 271,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\inmoboliaria\\inmobiliariapi\\inmobiliariapi\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "inmobiliariapi\\Data\\AppDbContext.cs",
@@ -59,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "InquilinoController.cs",
               "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\inmoboliaria\\inmobiliariapi\\inmobiliariapi\\Controllers\\InquilinoController.cs",
               "RelativeDocumentMoniker": "inmobiliariapi\\Controllers\\InquilinoController.cs",
@@ -67,12 +67,11 @@
               "RelativeToolTip": "inmobiliariapi\\Controllers\\InquilinoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T14:39:14.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T14:39:14.448Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Propiedad.cs",
               "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\inmoboliaria\\inmobiliariapi\\inmobiliariapi\\Models\\Propiedad.cs",
               "RelativeDocumentMoniker": "inmobiliariapi\\Models\\Propiedad.cs",
@@ -80,38 +79,37 @@
               "RelativeToolTip": "inmobiliariapi\\Models\\Propiedad.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T13:51:39.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T13:51:39.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Propietario.cs",
               "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\inmoboliaria\\inmobiliariapi\\inmobiliariapi\\Models\\Propietario.cs",
               "RelativeDocumentMoniker": "inmobiliariapi\\Models\\Propietario.cs",
               "ToolTip": "C:\\Users\\diec6\\Desktop\\inmoboliaria\\inmobiliariapi\\inmobiliariapi\\Models\\Propietario.cs",
               "RelativeToolTip": "inmobiliariapi\\Models\\Propietario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T13:48:32.242Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Contrato.cs",
               "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\inmoboliaria\\inmobiliariapi\\inmobiliariapi\\Models\\Contrato.cs",
               "RelativeDocumentMoniker": "inmobiliariapi\\Models\\Contrato.cs",
               "ToolTip": "C:\\Users\\diec6\\Desktop\\inmoboliaria\\inmobiliariapi\\inmobiliariapi\\Models\\Contrato.cs",
               "RelativeToolTip": "inmobiliariapi\\Models\\Contrato.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA8wCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T13:47:23.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Inquilino.cs",
               "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\inmoboliaria\\inmobiliariapi\\inmobiliariapi\\Models\\Inquilino.cs",
               "RelativeDocumentMoniker": "inmobiliariapi\\Models\\Inquilino.cs",
@@ -119,8 +117,7 @@
               "RelativeToolTip": "inmobiliariapi\\Models\\Inquilino.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T13:45:42.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T13:45:42.116Z"
             },
             {
               "$type": "Document",
@@ -132,8 +129,7 @@
               "RelativeToolTip": "inmobiliariapi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-05T13:00:19.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T13:00:19.842Z"
             },
             {
               "$type": "Document",
@@ -145,8 +141,7 @@
               "RelativeToolTip": "inmobiliariapi\\inmobiliariapi.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-03-05T13:00:16.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T13:00:16.689Z"
             }
           ]
         }
